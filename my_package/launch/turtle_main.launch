@@ -1,0 +1,4 @@
+<launch>
+  <include file="$(find my_package)/launch/turtle_sub1.launch"/>
+  <include file="$(find my_package)/launch/turtle_sub2.launch"/>
+</launch>

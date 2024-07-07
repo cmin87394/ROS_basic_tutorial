@@ -1,0 +1,10 @@
+<launch>
+  <group ns="group1">
+    <node pkg="my_package" type="talker.py" name="talker1" output="screen"/>
+    <node pkg="my_package" type="listener.py" name="listener1" output="screen"/>
+  </group>  
+  <group ns="group2">
+    <node pkg="my_package" type="talker.py" name="talker2" output="screen"/>
+    <node pkg="my_package" type="listener.py" name="listener2" output="screen"/>
+  </group>
+</launch>
