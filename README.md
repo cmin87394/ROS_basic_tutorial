@@ -12,7 +12,7 @@
 ---
 **Description**
 
-  * For a lecture on the basic of ROS.
+  * Lecture on the Basics of ROS.
   
 
 ---
